@@ -1,6 +1,11 @@
-# product_inventry
+# Product_Inventory
 
 A new Flutter application.
+
+## screenshots
+
+
+<img src='https://github.com/ishaileshmishra/product_inventry/blob/master/screens/login.png' width='250' height='510'/> .. <img src='https://github.com/ishaileshmishra/product_inventry/blob/master/screens/home.png' width='250' height='510'/> .. <img src='https://github.com/ishaileshmishra/product_inventry/blob/master/screens/locations.png' width='250' height='510'/> .. <img src='https://github.com/ishaileshmishra/product_inventry/blob/master/screens/miraroad.png' width='250' height='510'/> ..
 
 ## Getting Started
 
